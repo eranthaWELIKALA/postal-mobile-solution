@@ -1,6 +1,15 @@
 # postal-mobile-solution
 This application is a sample application for managing posts.
 
+This app can be used to learn below features, 
+1. QR Generating
+2. QR Scanning
+3. Recycler Views
+4. Executors
+5. Handlers
+6. Runnable Interfaces
+7. SQLite DB use
+
 This has three user levels.
 1. Admin
 2. Postmen
